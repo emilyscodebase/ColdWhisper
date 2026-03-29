@@ -18,3 +18,13 @@ This repository also includes a personal journey and project background.
 
 ## Status
 Work in progress — actively developing features and improving system intelligence.
+
+## How to Run
+
+Run the project using:
+
+python main.py
+
+## Author
+
+Built by Promise Uchechukwu — aspiring AI/Software Engineer passionate about building solutions that improve developer well-being.
